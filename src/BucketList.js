@@ -25,3 +25,4 @@ return (
 // 우리가 만든 함수형 컴포넌트를 export 해줍니다.
 // export 해주면 다른 컴포넌트에서 BucketList 컴포넌트를 불러다 쓸 수 있어요.
 export default BucketList;
+// export {BucketList};
